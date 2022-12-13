@@ -1,0 +1,4 @@
+C:/Users/Misha/source/repos/geom/out/build/x64-debug/CMakeFiles/geom.dir
+C:/Users/Misha/source/repos/geom/out/build/x64-debug/CMakeFiles/geom.test.dir
+C:/Users/Misha/source/repos/geom/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/Misha/source/repos/geom/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
